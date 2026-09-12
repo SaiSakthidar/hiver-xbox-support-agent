@@ -1,0 +1,8 @@
+{
+  "intent_accuracy": 0.1935483870967742,
+  "intent_macro_f1": 0.04054054054054054,
+  "escalation_accuracy": 0.5483870967741935,
+  "escalation_precision": 0.0,
+  "escalation_recall": 0.0,
+  "escalation_f1": 0.0
+}

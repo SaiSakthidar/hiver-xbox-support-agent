@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/twcs/
+outputs/faiss.index
+outputs/faiss_meta.pkl
+outputs/llm_cache/
