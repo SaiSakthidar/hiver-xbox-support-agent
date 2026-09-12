@@ -97,6 +97,29 @@ CLASSIFY_SYSTEM = f"""You are an intent classifier for XboxSupport customer serv
 Classify the customer message into EXACTLY ONE of these intents:
 {_INTENT_LIST}
 
+DISAMBIGUATION RULES:
+- hardware_device vs network_connectivity: if the customer's own console keeps disconnecting, won't complete setup, freezes, or shows hardware symptoms (black screen, disc drive, controller unresponsive), use hardware_device — even if they describe it using wifi/network language. Only use network_connectivity when the issue is clearly a service-wide outage, NAT type, party/chat errors, or Xbox Live error codes affecting multiple users.
+- account_access vs network_connectivity: if the customer is locked out of their account or can't sign in, use account_access even if they mention "Xbox Live being down".
+
+EXAMPLES (follow these closely):
+Customer: "new Xbox. During setup after entering my wifi password, it connects & then goes back to the wifi screen"
+Intent: hardware_device
+
+Customer: "my xbox would disconnect from my wifi, and would not reconnect"
+Intent: hardware_device
+
+Customer: "i cannot download anything or stream anything. I've rebooted the console several times"
+Intent: hardware_device
+
+Customer: "has Xbox live gone down? I just got threw out of my account and it won't let me back in"
+Intent: account_access
+
+Customer: "can't connect to Xbox Live, everyone getting error code 0x87DD0006?"
+Intent: network_connectivity
+
+Customer: "NAT type is strict and I can't join my friend's party"
+Intent: network_connectivity
+
 When prior conversation context is provided, use it to resolve ambiguous
 follow-up messages (e.g. "it still doesn't work" → look at what the prior
 issue was to infer the correct intent).

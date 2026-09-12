@@ -1,12 +1,8 @@
 {
-  "intent_accuracy": 0.7096774193548387,
-  "intent_macro_f1": 0.6116071428571428,
-  "escalation_accuracy": 0.45161290322580644,
-  "escalation_precision": 0.3333333333333333,
-  "escalation_recall": 0.21428571428571427,
-  "escalation_f1": 0.2608695652173913,
-  "judge_mean_score": 3.161290322580645,
-  "judge_human_kappa": -0.06896551724137923,
-  "judge_human_pearson_r": -0.0375835051393006,
-  "judge_calibration_n": 31
+  "intent_accuracy": 0.7236842105263158,
+  "intent_macro_f1": 0.6818882504114605,
+  "escalation_accuracy": 0.5460526315789473,
+  "escalation_precision": 0.5166666666666667,
+  "escalation_recall": 0.43661971830985913,
+  "escalation_f1": 0.4732824427480916
 }

@@ -1,0 +1,10 @@
+{
+  "n_with_context": 48,
+  "n_without_context": 104,
+  "accuracy_with_context": 0.6667,
+  "accuracy_no_context": 0.7292,
+  "accuracy_delta": -0.0625,
+  "macro_f1_with_context": 0.5938,
+  "macro_f1_no_context": 0.697,
+  "macro_f1_delta": -0.1033
+}

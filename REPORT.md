@@ -48,22 +48,22 @@ A good XboxSupport agent must do three things well, in order of priority:
 |---|---|---|
 | Trivial | 0.194 | 0.041 |
 | Simple | 0.387 | 0.231 |
-| **Agent** | **0.710** | **0.612** |
+| **Agent** | **0.724** | **0.682** |
 
-The agent is 3.7× more accurate than the trivial baseline and 1.8× more accurate than the simple baseline.
+The agent is 3.7× more accurate than the trivial baseline and 1.9× more accurate than the simple baseline.
 
 Per-class agent performance:
 
 | Intent | Precision | Recall | F1 |
 |---|---|---|---|
-| enforcement_ban | 1.00 | 1.00 | **1.00** |
-| game_content | 0.83 | 0.83 | **0.83** |
-| billing_subscription | 0.75 | 0.75 | **0.75** |
-| account_access | 0.75 | 0.60 | 0.67 |
-| app_feature | 0.50 | 0.67 | 0.57 |
-| hardware_device | 1.00 | 0.40 | 0.57 |
-| network_connectivity | 0.33 | 1.00 | 0.50 |
-| other | 0.00 | 0.00 | 0.00 |
+| enforcement_ban | 0.88 | 0.92 | **0.90** |
+| billing_subscription | 0.68 | 0.89 | **0.77** |
+| hardware_device | 0.81 | 0.74 | **0.77** |
+| account_access | 0.76 | 0.64 | 0.70 |
+| game_content | 0.77 | 0.65 | 0.70 |
+| app_feature | 0.56 | 0.75 | 0.64 |
+| network_connectivity | 0.60 | 0.55 | 0.57 |
+| other | 0.38 | 0.43 | 0.40 |
 
 ### Escalation decision
 
@@ -71,7 +71,7 @@ Per-class agent performance:
 |---|---|---|---|---|
 | Trivial | 0.548 | 0.000 | 0.000 | 0.000 |
 | Simple | 0.484 | 0.200 | 0.214 | 0.111 |
-| **Agent** | **0.452** | **0.333** | **0.214** | **0.261** |
+| **Agent** | **0.546** | **0.517** | **0.437** | **0.473** |
 
 Escalation by predicted intent (agent):
 
@@ -158,7 +158,7 @@ Recommendation: Remove `other` from evaluation metrics or evaluate it separately
 
 ## 4. What is misleading about my headline number?
 
-Headline: Agent intent accuracy = 71.0%, macro-F1 = 0.612
+Headline: Agent intent accuracy = 72.4%, macro-F1 = 0.682
 
 ### 4a. The test set is small (n=31)
 
@@ -178,7 +178,11 @@ Ground-truth escalation is proxied by "brand directed customer to DM/chat." Arou
 
 Cohen's κ = -0.069 is statistically meaningless at n=31 (95% CI ≈ ±0.35). More informatively: 67.7% of judge ratings fall within ±1 point of human ratings. The judge is consistently ~0.8 points stricter than the human rater, a systematic calibration offset rather than random noise. The judge's 3.16/5 score for agent replies may correspond to ~4.0/5 on a human scale.
 
-### 4e. Evaluation is on Twitter-length messages, not full support tickets
+### 4e. Context-awareness helps the drafter but not the classifier (measured)
+
+We ran a context ablation on the 48 golden-set examples that have prior conversation turns: intent accuracy with context was 0.667 vs 0.729 without context (delta: -0.062). Context makes classification slightly worse on this set. The likely cause: prior turns in the dataset are noisy raw tweets — sometimes unrelated to the current issue — and the model is distracted by them. Context still benefits the reply drafter (avoids repeating suggestions) and escalation logic (detects multi-round troubleshooting), but the classification benefit claimed in Decision #1 is not confirmed by this experiment.
+
+### 4f. Evaluation is on Twitter-length messages, not full support tickets
 
 Real support conversations involve attachments, account data, and context that Twitter's 280-character constraint strips away. The agent's performance on actual support tickets (longer, richer, with clearer intent signals) is unknown.
 

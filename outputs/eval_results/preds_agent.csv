@@ -1,81 +1,398 @@
 thread_id,customer_text,true_intent,true_escalate,human_quality,pred_intent,pred_decision,pred_reply,pred_reason
-204149,@XboxSupport when i load up my crunchyroll app it go back to the Home please help.,app_feature,no,5,app_feature,auto,@USER Hi there! Let's check out our guide here for this app crashing issue that you're seeing https://t.co/ouleFx48g2,This is a standard app crashing issue that can be handled automatically with a troubleshooting link.
-1377985,@XboxSupport No community or mixer https://t.co/e02jFGggCA,game_content,no,5,app_feature,auto,"@USER Thanks for that picture. If you hold down the LT + RT +Y on your controller, does this refresh your home page?","```json
+120893,"I just saw the news article right now for this. Isn't this against TOS? People are going to unknowingly get themselves hurt. https://t.co/daJDzPcUcY
+
+@XboxSupport",other,no,3,other,escalate,"@USER Not sure what you're referring to, but all official news can be found on https://t.co/OXio35bPih. We couldn't speculate on any 3rd party sites.","The customer is reporting a potential safety or Terms of Service violation involving an external link, which requires human review."
+2579798,@XboxSupport hey guys trying to put in the 30 day sub for game pass I got with my £450 console but get this. This cant be right https://t.co/18xidfj6Fh,billing_subscription,no,3,billing_subscription,auto,@USER Hi there! Can you DM us your Gamertag and a photo of the message you are seeing when you try to redeem your code?,The drafted reply appropriately requests standard verification information to proceed with the code redemption issue.
+744472,man im so FUCKING tired of getting banned on xbox cause NIGGAS SUCK AT 2k and i gotta LET THEM KNOW THEY SUCK @XboxSupport please unban me,enforcement_ban,no,4,enforcement_ban,escalate,"@USER Thanks for reaching out! We don't have any details on Enforcement action here, as that's handled by a separate team. You can find more info on active suspensions at https://t.co/KvFov","The customer message involves an account ban appeal, which always requires escalation."
+1757577,"@XboxSupport Issue seemed to have fixed itself a little after I sent this. It just came up with gamer tag didn’t exist, even when I tried it with my friends gts. This was happening on the app and the console.",account_access,no,4,account_access,auto,"@USER We're glad to hear that was resolved. If you have any other Xbox questions, please let us know.",The customer confirmed that the issue resolved itself and no further assistance is needed.
+272573,@XboxSupport I don't have any subscriptions tied to my Xbox account nor have I purchased anything. But I'm being charged with items for $10?,billing_subscription,yes,4,billing_subscription,escalate,@USER Hello! Would you mind following us and sending a DM when you are so we can gather more info?,"The customer is reporting unauthorized charges, which requires human intervention."
+2623679,"@XboxSupport I tried opening the Twitch app and it opened and started normally, soon after it went to a black screen.",app_feature,yes,4,app_feature,auto,"@USER Thanks for the details! Are you seeing any error messages when the screen goes black, and does this happen with any other apps?",This is a standard app troubleshooting inquiry that can be handled with the drafted reply.
+2856902,@XboxSupport It was slugs lol called me a camping noobs for headglitching a bomb that I just planted 😂 then reported my response 2 week com ban and I'm sure they never respond to your appeal,enforcement_ban,no,3,enforcement_ban,escalate,"@USER We understand that's frustrating. While we don't have insight on enforcement actions here, you can submit a case review for more info: https://t.co/U1yn6tkAAG",The customer message involves an account ban and suspension appeal.
+497060,@XboxSupport it's been 4 weeks and I have gotten nothing for October's Game Pass Goals,game_content,yes,4,game_content,escalate,@USER Hi there! Could you DM your Gamertag and when you completed the Game Pass goals?,"The issue has been unresolved for 4 weeks, indicating a prolonged problem that requires human intervention."
+1118865,@XboxSupport Does your enforcement history on an account reset over an extended period of time?,enforcement_ban,no,5,enforcement_ban,escalate,@USER Not that we know of. If you'd like to see that feature added feel free to post here: https://t.co/bKaMp0HcbU,"The customer message involves an account enforcement ban, which requires human escalation per policy."
+1587772,@XboxSupport All lies. The page says all working. Still getting error code 102394,network_connectivity,yes,2,network_connectivity,auto,@USER The proper teams have been notified of this and are looking into it - keep an eye on https://t.co/99xfLNdOow for updates!,The drafted reply adequately addresses the network issue and directs the customer to the official status page.
+154678,@XboxSupport Ive contacted support 5 times but nobody can fix my home xbox problem they’ve made me do the same thing and told me to wait but never works. I cant play my digital games offline and somebody probably has access on my live gold and games!! https://t.co/3FqqH7EE1k,account_access,yes,1,enforcement_ban,escalate,"@USER We understand your concern. While we can't look into account limits here on Twitter, our support team can take a closer look at this with you.",The customer has tried multiple troubleshooting steps without resolution and suspects account theft.
+2294521,@XboxSupport im not able to add friends and i know others who arent either somethings wrong with ur servers,network_connectivity,yes,4,network_connectivity,auto,@USER Hi there. If you check here https://t.co/7Osu1VFDNE are you seeing the same thing?,"```json
 {
   ""decision"": ""auto"",
-  ""reason"": ""The drafted reply provides a standard first-step troubleshooting action for UI display issues.""
+  ""reason"": ""The issue appears to be a known server outage and the drafted response directs the user to check server status.""
 }
 ```"
-1029293,@XboxSupport Updated my controller but mic still doesn’t let me talk. I can only hear people but not speak back. 😔,hardware_device,yes,5,hardware_device,auto,"@USER Hi! Let's have you follow us, DM us your Gamertag, and some more info about what you're seeing: https://t.co/nPX1yNXCi5","The customer has not yet gone through multiple failed troubleshooting steps, so it can be handled via the standard support flow."
-219216,"@XboxSupport @USER please, at some point someone explain how I can play #cuphead on Windows 10 with a USB controller?",hardware_device,no,4,hardware_device,auto,@USER PC and then when you launch the game it should auto detect. Are you having issues with those steps?,"```json
-{
-  ""decision"": ""auto"",
-  ""reason"": ""The customer is asking a standard setup question that can be handled with basic troubleshooting steps.""
-}
-```"
-409941,@USER  hey mojang me and my friends hav been playing servers on the new Xbox minecraft and there has been several times could you please fix it 🙂,game_content,no,4,game_content,auto,@USER We can help take a look with you as well - tweet us any time for official Xbox support :),"```json
-{
-  ""decision"": ""auto"",
-  ""reason"": ""The customer is reporting a general server issue in Minecraft without any complex escalation triggers like bans, fraud, or prior failed troubleshooting.""
-}"
+2281954,"@XboxSupport Im not getting a 4k update, does it still appear as a separate item under manage game",game_content,no,3,game_content,auto,"@USER When a 4K update is available, it downloads automatically as part of the game update rather than appearing as a separate item. What specific game are you trying to update?","This is a simple informational question about how 4K updates download, which is fully answered by the drafted reply."
+763850,"@XboxSupport Just telling me incorrect password and I dont have access to the email I used to sign up, then it's saying I can't prove the account is mine",account_access,no,4,account_access,escalate,"@USER Gotcha. Just to clarify, do you not recall the email associated with your account, or are you unable to access your email account?","The issue involves account access loss and inability to verify ownership, which requires human agent assistance."
+601589,"@XboxSupport The XBox 360 had the most intuitive and brilliant UI. Chat, Party, everything. The XBox One is so bad it is infuriating. What happened?",app_feature,no,1,app_feature,auto,@USER We'd love to hear your thoughts on the UI! Please share your feedback and suggestions with us here: https://t.co/Ub2WjDyEcS,The message is general feedback about the UI and is fully addressed by the drafted reply pointing to the feedback link.
+1655966,@USER  lol do Xbox users won't get patch 5 until patch 6 lol,game_content,no,3,game_content,auto,"@USER Hello, thanks for reaching out to us. We can't speculate on future updates.","The customer is asking a speculative question about game patches, which is adequately handled by the drafted response."
 2300466,@XboxSupport Hey i just bought xbox live gold but when i try to play a game online it says that i dont have xbox gold?,billing_subscription,yes,4,billing_subscription,auto,@USER Sorry to hear! Can you DM us your gamertag & which Xbox console you're using? https://t.co/nPX1yNXCi5,"```json
 {
   ""decision"": ""auto"",
   ""reason"": ""The drafted reply appropriately gathers account details to resolve the subscription issue without involving complex billing disputes or bans.""
 }
 ```"
-2215130,"@XboxSupport I'm having a problem where I just had a communication ban lifted. However, I cannot talk at all or send messages to anybody. Please help",enforcement_ban,yes,5,enforcement_ban,escalate,@USER Hello! Would you mind following us and sending a DM with your gamertag so we can better assist you?,"```json
-{
-  ""decision"": ""escalate"",
-  ""reason"": ""The issue involves a post-ban enforcement restriction where the user still cannot communicate.""
-}
-```"
-1757538,"@XboxSupport I got a permanent ban for phishing,how do you scam on Xbox I was in a party on Xbox and on computer and I got ban for scamming",enforcement_ban,no,4,enforcement_ban,escalate,"@USER Hey there, we're separate from the Enforcement Team & unable to speculate on your enforcement action. You can view more info about any active enforcement action here: https://t.co/aHF4ZgtbnQ",The customer is appealing a permanent account ban.
-2598174,"@XboxSupport if I bought Blade Runner Final Cut a while ago but now I want to purchase UHD, how do I upgrade?",billing_subscription,no,5,billing_subscription,auto,"@USER Hi there, in this case, the UHD is a separate version and you would need to purchase it to own it.","```json
+454139,@XboxSupport It's a shame they don't provide legitimate evidence or a actual reason as to why a enforcement action has occurred.  Also the fact that they don't read your case review even though it says that they're supposed to be understanding.,enforcement_ban,yes,1,enforcement_ban,escalate,"@USER We understand your frustration. While we are a separate team and cannot speculate on enforcement actions, you can check your eligibility for a case review via the enforcement site for more info.",The message involves an account ban or suspension appeal.
+2983283,@XboxSupport My pb with epic email not with Xbox account,account_access,no,5,account_access,auto,"@USER Got it! Since this is an Epic Games account issue, you'll need to reach out to Epic Games Support directly for help with their email settings.","The issue is related to an external Epic Games account rather than an Xbox account ban, fraud, or hardware issue."
+1740341,@XboxSupport It's not an update to the Xbox it's an update to the sky TV app that's needed.,app_feature,no,4,app_feature,auto,@USER Ahh OK. In that case we'd recommend to share this feedback with the app publisher directly: https://t.co/d88bExgPT3,"```json
 {
   ""decision"": ""auto"",
-  ""reason"": ""The customer is asking a standard licensing question that is fully resolved by the drafted reply.""
+  ""reason"": ""The drafted reply provides the correct guidance for third-party app feedback without requiring escalation criteria.""
 }
 ```"
-1415896,"@XboxSupport new Xbox. During setup after entering my wifi password, it connects &amp;I then goes back to the original green Xbox screen.  Grr",hardware_device,no,4,network_connectivity,auto,"@USER Hello, thanks for reaching out to us! Can you try completing setup with a wired connection?",This is a standard network connectivity issue during initial setup that can be addressed with basic troubleshooting.
+465539,"@XboxSupport hey I want a 6,99€ refund because I didn't ask to get xbox live",billing_subscription,yes,4,billing_subscription,escalate,"@USER Hi there! To discuss your refund options, let's have you reach out to the chat team here: https://t.co/qSynA8s7TB","The customer is requesting a refund for an unwanted charge, which requires human support."
+568575,"@XboxSupport Well, my blu ray disc is stuck in the disc drive when I tried to stick it in and play it. Paperclip in the side doesn't seem to work. What should I do?",other,yes,3,hardware_device,escalate,@USER Hey there! Is the console plugged directly into a wall socket currently?,"The issue involves physical hardware damage and a stuck disc, which requires human support and cannot be resolved by standard troubleshooting."
+663560,"@USER @XboxSupport I’ve gone over 216 mph on Homestead Miami, and it still has not given me the progress in the “Speed is Key” #Forzathon. I have no idea what’s going on. Is it my connection, or do I have to do the challenges in a different way other than Free Play?",game_content,no,5,game_content,auto,@USER For this specifically let's post in the Forza forums to get more specifics on this here: https://t.co/vv1m0rWTyv,"The customer is asking for guidance on an in-game challenge, which can be adequately addressed by directing them to the Forza forums."
+2747517,@XboxSupport i need help with 2 issues im having.everytime i open up spotify the app closes immediately and when im streaming on twitch from my xbox the blue bar at the bottom of my screen blocks my view from seeing things. I need some help ASAP,app_feature,yes,4,app_feature,auto,"@USER We'd be happy to help, but we could use more info. Could you follow &amp; DM @Xboxsupport with your Gamertag &amp; any error codes you see?",The drafted reply properly collects necessary information to begin troubleshooting two minor software issues.
+771473,@XboxSupport newest update for destiny 2 deleted my game from my hard drive. Reported bug. But still gonna take 3 hours to redownload.,app_feature,no,4,game_content,escalate,"@USER Sorry to hear that, let's try the slow downloads guide https://t.co/N75wQ6skgz see if we can get that running quicker.","The customer is experiencing a game deletion bug caused by an update and frustrated by the reinstall time, making a generic slow download link unhelpful."
+2772828,@XboxSupport I have 2 achievements not unlocking on South Park TFB and have done all the guided fixes on your website please fix !!,game_content,no,4,game_content,escalate,"@USER We'd be happy to help, but we could use more info. Could you follow &amp; DM @Xboxsupport with your Gamertag &amp; some details?",The customer has already tried multiple troubleshooting steps on the website without resolution.
+312268,so @XboxSupport there is this man on xbox named sml light who abused me with words and my family. can you do please try to ban him for a bit,enforcement_ban,yes,3,enforcement_ban,escalate,@USER We're sorry to hear about that! Please be sure to report that user on the console so that the Enforcement team is aware. They take all reports very seriously.,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The request involves a user ban appeal/enforcement action against another player, which requires human review.""
+}
+```"
+649476,"@XboxSupport as you saw, I do have a Gold membership! What is this??? https://t.co/3RZZq3D6cX",billing_subscription,yes,3,billing_subscription,escalate,"@USER Hey there, let's try removing the profile then adding it back using the steps outlined here: https://t.co/dVcem36rc1",The drafted troubleshooting does not address the customer's billing and membership verification issue.
+2050691,"@XboxSupport Hi, every time I plug my chat headset in I get, “we were unable to find a microphone for these people” Any help please, thanks",other,no,4,hardware_device,auto,"@USER Hey, here are some troubleshooting steps for your headset https://t.co/8U7DVJN3FN. Let us know if any of these solutions help.",This is a standard hardware query eligible for initial automated troubleshooting.
+2949683,@XboxSupport why wont it let me upload clips from upload studio to onedrive just says their is a problem everytime ?,game_content,yes,4,game_content,auto,"@USER Sorry to hear that! Can you DM us your gamertag, the steps you've already tried, and a detailed summary of the issue so we can look into this further?","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is reporting a standard game content issue and the drafted reply is appropriate for initial triage.""
+}
+```"
+2410784,@XboxSupport How many bans from Xbox Live does it take to get your account permabanned?,enforcement_ban,no,1,enforcement_ban,escalate,@USER Hi there! Enforcement actions are reviewed on a case-by-case basis and depend on the severity and frequency of the violations. You can check the status of your account at support.xbox.com.,"The customer is asking about account bans and enforcement actions, which requires human review."
+7889,do you know how hard it is to play Xbox with a broken RB 😭 #XboxOne #itsbroken https://t.co/8NHaU4x8J0,hardware_device,no,2,hardware_device,escalate,"@USER If you need help with your Xbox controller, we'd be happy to help! Tweet us any time for official Xbox support.","```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The customer is reporting a broken hardware component (RB button on the controller).""
+}
+```"
+2249669,@XboxSupport I was charged multiple times for GamePass subscription. Xbox support tried to blame my bank until I could prove otherwise and then admitted to multiple customers calling in with the same complaint. No one can provide me with any info as to what is going on???,billing_subscription,yes,2,billing_subscription,escalate,"@USER Hi, if you would like to inquire about a refund, you can reach out to our chat team here. https://t.co/sMM0hn9ycL",The customer is experiencing a billing dispute involving multiple unauthorized charges and failed prior support attempts.
 1659478,Hey @XboxSupport I was just communication banned for no reason I need an explanation plz!!!,enforcement_ban,no,2,enforcement_ban,escalate,@USER We don't have any info on Enforcement action here; you can submit a case review at https://t.co/JoGQTtjstP for more.,Account ban and suspension inquiries require human review.
+373177,"@XboxSupport Error code is 0x80190194. User: aut0poietic. Got the email confirmation, so it looks like I was charged.",billing_subscription,yes,3,billing_subscription,escalate,@USER Heya! What video did you rent? We are happy to look into this with you.,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The customer indicates they were charged and received a confirmation email despite an error code, which involves a potential billing/financial discrepa"
+2608201,@XboxSupport y’all need an appeal system or some shit. I didn’t even do anything! https://t.co/v4ssA4wWk4,enforcement_ban,yes,2,enforcement_ban,escalate,@USER We understand your frustration. Enforcement actions can be reviewed through a case review on your account profile if eligible. Did you ever hear back from the enforcement team about it?,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The customer message involves an account ban appeal.""
+}
+```"
+567019,"@XboxSupport got banned for swearing at a user over messages. I had a bad morning that day due to being ill and isn't how i usually act i did try to go and say sorry but i got banned before i could. hoping I could get a case review study, however I can't seem to get it to work.",enforcement_ban,no,3,enforcement_ban,escalate,"@USER Hi there! What happens exactly when you try to submit a case review? Also, to be sure, is your suspension longer than 24 hours?","The message involves an account ban and suspension appeal, which requires human agent review."
+298160,@XboxSupport The issue happens for every game/app i tried to use or if they are able to launch i can't connect to the game server. Plus i'm not able to download the game i just bought...,network_connectivity,yes,5,hardware_device,escalate,@USER Would you mind sending a picture of your network stats: Settings&gt;Network&gt;Network Settings&gt;Detailed Network Statistics,The customer is experiencing a persistent hardware and network issue affecting multiple games and downloads that basic troubleshooting is unlikely to resolve immediately.
+2703768,"@USER @ATVIAssist @XboxSupport https://t.co/JD8FwS3Gbp I recorded somebody clearly cheating in a game. Is he going to be banned for CLEARLY cheating? His xbox gamertag is ""Wompo""",enforcement_ban,no,5,enforcement_ban,auto,"@USER Thanks for reaching out. We can't discuss enforcement actions for other accounts, but if you believe someone violated the Code of Conduct, the best step is to report them directly via their profile on your console so our Enforcement team can review it.","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The message is about reporting another player, not an appeal of the user's own ban, and the drafted reply appropriately directs them to use the on-console "
+1658893,@XboxSupport I bought an Elite Controller roughly 4 months ago and noticed the back grip has begun to peel off is this covered by warranty?,hardware_device,yes,4,hardware_device,escalate,@USER Hey there! Let's check in with the chat team here: https://t.co/lUV7XYl61S to look into your options.,"The customer's message involves a hardware warranty claim, which requires human agent intervention."
+105863,"@XboxSupport My friend and I have been having an issue with connecting to each other in an online party, the party works fine until we both are in it, how can this be fixed? Thank you",network_connectivity,no,4,network_connectivity,auto,"@USER Hey there! Just to clarify, do you and your friend both have an Open NAT: https://t.co/0zBS4AjUXl",This is a standard network connectivity query that can be addressed with basic troubleshooting steps.
+834170,"@XboxSupport why do you guys let hackers run your servers, I literally can't play online for more than 20 secs without getting booted by hac",enforcement_ban,no,4,network_connectivity,auto,@USER https://t.co/0Q9A5E6gMb . You can also report users violating rules via your console: https://t.co/Mayxdku7m5 .,The drafted reply provides standard troubleshooting links for connection issues and reporting suspected cheaters.
+2702314,@XboxSupport Just with this game in particular,game_content,no,3,game_content,auto,"@USER Thanks for the detail! Could you send us more info about what's happening with this specific game, along with your Gamertag? https://t.co/XJOdrwpuSt",The drafted reply appropriately gathers more information for a game content issue without triggering escalation criteria.
+2160680,@XboxSupport the game pass code that came with my X1X isn’t working. Any suggestions? https://t.co/5cAwmuHQaQ,game_content,no,5,billing_subscription,auto,"@USER Hello, thanks for reaching out to us. To be sure, have you by chance already had a trial for the Xbox Game Pass in the past?","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""This is a first-contact inquiry about a game pass code with a standard troubleshooting question.""
+}
+```"
 262383,@USER @XboxSupport Can someone fix the Netflix app on Xbox One? Ffs I’ve even restarted the system and it’s still not starting,app_feature,no,4,app_feature,auto,"@USER Sorry for the frustration! Since a restart didn't work, please try uninstalling the app, power cycling your console using these steps: https://t.co/QENEhDawC3, and then reinstalling the app. Does that help?","```json
 {
   ""decision"": ""auto"",
   ""reason"": ""The customer has only tried one troubleshooting step (restarting), so further troubleshooting can be provided automatically.""
 }
 ```"
-2525052,@XboxSupport it’s not letting me change my gamer picture from the Xbox app on my iPhone. Why isn’t this working?,app_feature,yes,4,account_access,auto,@USER Hi there! What happens when you try to set that up? Are you seeing any error messages?,This is a standard technical support inquiry that can be handled with basic troubleshooting questions.
-513854,"@XboxSupport hello! I had a problem with my xbox account, my friend deleted my main xbox live account and i have no idea what is my email anymore, i only remember my gamertag, can you help me?",account_access,no,4,account_access,escalate,@USER Heya! You can try the steps here: https://t.co/nkrnNr2aOM to get access to the email and sign into your account.,"```json
+1726315,@XboxSupport not fussed with ya help. xbox support is crap. can you tell me how to cancel my gold membership and factory reset my Xbox to sell,billing_subscription,yes,1,billing_subscription,auto,@USER Hi there! Could you DM us your Gamertag and a description of the issue so we can help with your membership?,"```json
 {
-  ""decision"": ""escalate"",
-  ""reason"": ""The customer is dealing with account theft and loss of login credentials, which requires human verification and intervention.""
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is asking straightforward how-to questions about canceling a membership and factory resetting a console, which do not require human escalation"
+207439,@XboxSupport This is what it looks like from both the console view and the app view. https://t.co/LzoUw3cTIP,network_connectivity,no,2,hardware_device,auto,@USER Thank you for those photos. All users are seeing the same thing you are and are able to post in other clubs?,The customer is sharing images of a software/club display issue rather than a hardware damage or warranty claim.
+1687407,@XboxSupport There's a game I want that comes out tomorrow but it's not listed in store yet. Will it be there for dig. download @ midnight?,game_content,no,4,billing_subscription,auto,@USER Thanks for reaching out! Which game are you referring to? Can you DM us more details on that? https://t.co/nPX1yNXCi5,This is a general pre-order availability question that does not involve sensitive billing disputes or bans.
+123833,"@XboxSupport In the past two days i've been having issues where my xbox would disconnect from my wifi, and would give me an error message about toredo ip but I have no clue what the problem could be here. ( my xbox has disconnected randomly before but it just now gave me this)",hardware_device,yes,1,hardware_device,auto,@USER Heya! Let's power down the console and unplug it for about 5 mins then reboot and try to connect again.,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""This is a first-contact hardware/connectivity issue that can be handled with standard troubleshooting.""
 }
 ```"
-1712687,@USER I checked and it’s still incorrect. Some of my games are whipped out of achievements and it’s saying 0% unlocked,game_content,yes,5,game_content,auto,"@USER We'd be happy to help, but could use more info. Could you follow &amp; DM @Xboxsupport with your Gamertag &amp; some details?",The drafted reply provides appropriate next steps for a game content and achievement display issue without requiring escalation.
-298160,@XboxSupport The issue happens for every game/app i tried to use or if they are able to launch i can't connect to the game server. Plus i'm not able to download the game i just bought...,network_connectivity,yes,5,network_connectivity,escalate,@USER Would you mind sending a picture of your network stats: Settings&gt;Network&gt;Network Settings&gt;Detailed Network Statistics,Basic connectivity troubleshooting is insufficient given the customer cannot download purchased content or connect to any servers.
-708847,@XboxSupport has Xbox live gone down? I just got threw out of my account and it won’t let me back in.,account_access,yes,4,network_connectivity,auto,"@USER Hello, there are currently no service alerts for Xbox Live. Can you DM us your gamertag so we can look into this further?",This is a standard network inquiry that can be handled automatically without prior troubleshooting.
-2281954,"@XboxSupport Im not getting a 4k update, does it still appear as a separate item under manage game",game_content,no,3,game_content,auto,"@USER When a 4K update is available, it downloads automatically as part of the game update rather than appearing as a separate item. What specific game are you trying to update?","This is a simple informational question about how 4K updates download, which is fully answered by the drafted reply."
-649476,"@XboxSupport as you saw, I do have a Gold membership! What is this??? https://t.co/3RZZq3D6cX",billing_subscription,yes,3,billing_subscription,escalate,"@USER Hey there, let's try removing the profile then adding it back using the steps outlined here: https://t.co/dVcem36rc1",The drafted troubleshooting does not address the customer's billing and membership verification issue.
-1641113,"@XboxSupport Trying to resolve an error with COD: WWII, but @ATVIAssist is not responding, can you assist me?",game_content,yes,4,game_content,auto,"@USER Hello, thanks for reaching out to us. What seems to be the issue?",The customer is asking for assistance with a game error and the drafted reply appropriately asks for more details.
+1934430,@XboxSupport I have DM my GamerTag!,account_access,no,3,other,auto,@USER Thanks for sending that over. Are you seeing a specific error message or code when this happens?,The customer is simply providing requested information to continue the standard troubleshooting process.
+158210,"@XboxSupport Gamertag: Christian CLB
+When I go to play online for Battlefront II it asks me to purchase xbox gold and when I try to play black ops it says I am not member but on my xbox subscriptions it says that I am subscribed to Xbox Gold.",account_access,no,5,billing_subscription,auto,@USER Thanks for reaching out! Could you DM us your Gamertag and a screenshot of what you see when you log in here: https://t.co/KwpDVOSrYz,The drafted reply properly requests necessary verification info for a subscription sync issue without requiring escalation.
 1155596,@XboxSupport why can't I login anymore? For about an hour,account_access,yes,3,account_access,auto,@USER Hi there! We'd be happy to help with this. Could you follow us back &amp; DM your GamerTag when you get a chance?,"```json
 {
   ""decision"": ""auto"",
   ""reason"": ""The customer is experiencing a routine login issue and needs initial support.""
 }
 ```"
-12374,"@XboxSupport Please pass on my disappointment. We used ""Xbox Select"" daily. The Cortana version lacks app functionality, and Cortana commands are slower.",billing_subscription,no,4,app_feature,auto,"@USER If that is something you would like to see change, you can let your voice be heard here: https://t.co/xzPtJXQjgy","The customer is expressing feedback about an app feature, which can be appropriately handled with the provided auto-reply."
-1587772,@XboxSupport All lies. The page says all working. Still getting error code 102394,network_connectivity,yes,2,network_connectivity,auto,@USER The proper teams have been notified of this and are looking into it - keep an eye on https://t.co/99xfLNdOow for updates!,The drafted reply adequately addresses the network issue and directs the customer to the official status page.
+190874,@XboxSupport Really! :O thank you! And I will :D,other,no,4,other,auto,@USER No problem. Hope you have a great one.,The customer message is a casual expression of gratitude requiring no further troubleshooting or escalation.
+2215196,@XboxSupport why does OTA TV require internet to change channels? My internet is out and this is one of the reasons I use OTA TV.,network_connectivity,no,4,app_feature,escalate,@USER Hello! Recommend reaching out to them for more info on why that is required.,The drafted reply redirects the customer away and does not resolve the product feature inquiry.
+1220253,@XboxSupport did the fall update. My power supply died. Now I have to pay!? #workingbeforetheupdate #fail,hardware_device,no,4,hardware_device,escalate,@USER Hi there! Let's check out our guide here for this power issue that you're seeing https://t.co/rhsLpNZvg8,The customer is reporting hardware failure following an update and complaining about replacement costs.
+2306033,@XboxSupport I was just looking at my credit card charges and there's a charge to the Microsoft store that I didn't make on November 9th,billing_subscription,yes,1,billing_subscription,escalate,@USER We can certainly help look into this. Please reach out to our chat support team here: https://t.co/lUV7XYl61S so they can investigate the unauthorized charge.,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The customer message involves a potentially fraudulent or unauthorized charge.""
+}
+```"
 2324422,"@XboxSupport I just bought gold membership, why can't I play halo online?",account_access,no,4,billing_subscription,auto,@USER Thanks for reaching out! Could you DM us your Gamertag and a screenshot of what you see when you log in here: https://t.co/KwpDVOSrYz,"```json
 {
   ""decision"": ""auto"",
   ""reason"": ""Standard billing inquiry about Xbox Live Gold access that can be handled with basic account verification.""
 }
 ```"
+2742083,@XboxSupport I have an Xbox live membership till mid December but i am unable to get onto multiplayer on forza 7?,network_connectivity,yes,4,billing_subscription,auto,@USER Hi there! Thanks for reaching out. Could you DM us your Gamertag so we can look into your subscription status and this Forza 7 issue with you?,This is a standard subscription check that can be handled automatically.
+409941,@USER  hey mojang me and my friends hav been playing servers on the new Xbox minecraft and there has been several times could you please fix it 🙂,game_content,no,4,game_content,auto,@USER We can help take a look with you as well - tweet us any time for official Xbox support :),"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is reporting a general server issue in Minecraft without any complex escalation triggers like bans, fraud, or prior failed troubleshooting.""
+}"
+204483,"@MicrosoftHelps tried to login to the Xbox reward site, says it’s been migrated - Account has been suspended. What?",account_access,yes,5,enforcement_ban,escalate,"@USER Hey there. Can you DM us your gamertag, steps you've tried & a detailed summary of the issue so we can help?","```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The customer message involves an account suspension, which requires human agent review.""
+}
+```"
+760710,"@USER He has already tried completely unplugging the console, leaving it and then plugging back in. It didn't work",hardware_device,yes,3,hardware_device,escalate,@USER Hi there! Let's try all of the steps described on the game freeze guide on this link https://t.co/mqOAlFhV0f,The customer has already tried multiple troubleshooting steps without resolution and is experiencing a hardware issue.
+2707806,@XboxSupport Oh yea headsets work great! I was talking about usb mics for streaming to Mixer. Like Snowball mics and such.,app_feature,no,4,app_feature,auto,@USER Thanks for clearing that up! Which specific USB microphone model are you trying to use for your streams?,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is clarifying an inquiry about USB microphone compatibility and no escalation criteria are met.""
+}
+```"
+2635456,Love getting banned because my gamerpic @XboxSupport vegans https://t.co/5vPbUKGdJJ,enforcement_ban,no,4,enforcement_ban,escalate,"@USER Hi there! We're sorry for the frustration, but we don't have details on enforcement actions here at Support. If you'd like to look into this further, you can submit a case review here: https://t.co/U1yn6tkAAG",The message involves an account ban or suspension appeal.
+1456247,@XboxSupport My gamertag is alexthegreat45 https://t.co/dQ1tMylfIg,account_access,no,4,account_access,escalate,"@USER Thank you, we should have more information soon.",Account access issues require human intervention to verify identity and security.
+1401778,@XboxSupport Fix my ban on Xbox,enforcement_ban,no,5,enforcement_ban,escalate,@USER Hi there. We're actually separate from the Enforcement team & couldn't influence their actions. We'd recommend submitting a Case Review for more info regarding this: https://t.co/U1yn6tCbse,Account ban or suspension appeals must always be escalated to human agents.
 2693456,@XboxSupport So is the Xbox website forcing everyone to use Edge? I can't sign in with Chrome and I refuse to use Explorer in any format.,account_access,yes,3,account_access,auto,@USER We'd like to look into this sign-in issue with you. Could you follow &amp; DM us with the details of what happens when you try using Chrome?,The drafted reply properly offers basic troubleshooting for a browser sign-in issue.
-767462,@XboxSupport @USER why is there no way to actually engaged a conversation with the enforcement team this too me just doesn't make sense.,enforcement_ban,no,5,enforcement_ban,escalate,"@USER We completely understand your concern with communicating with the enforcement team. We do not handle any enforcement actions here, but if eligible, you can submit for a case review here: https://t.co/U1yn6tkAAG","The customer is asking about an enforcement ban, which requires human escalation."
+266619,@XboxSupport @USER @USER  Small typo in the purchase date? Lol https://t.co/fUUhKPtbGy,billing_subscription,no,5,billing_subscription,auto,@USER So that is just letting you know when your new subscription will start.,"The customer is asking about a subscription start date, which is a routine billing inquiry addressed by the drafted reply."
+2710589,"@XboxSupport Hi, i found out that i should unlock 3 achievements in The Sims 4 but the won't unlock",game_content,no,4,game_content,auto,"@USER Hi, here is a page with some troubleshooting tips for achievements https://t.co/MBavviYwfX",This is a standard achievement unlock issue that can be handled with self-service troubleshooting links.
+933935,"@XboxSupport ever since your latest update, I’ve been having sign in and account issues",account_access,yes,5,account_access,auto,"@USER Hi there, could you DM https://t.co/nPX1yNXCi5 us your Gamertag and details about what you're seeing so we can better help!","The customer reported a general update issue, and the drafted reply appropriately asks for account details via DM."
 1704310,@USER @USER @USER @USER @USER @XboxSupport  #2k18  patch 5 for Xbox today please.,game_content,no,5,game_content,auto,"@USER Hello, thanks for reaching out to us. We can't speculate on updates or patches. We recommend reaching out to 2K directly for the best info on their patch schedule.","The customer is asking about a game patch release date, which is appropriately handled by directing them to the game developer."
-123833,"@XboxSupport In the past two days i've been having issues where my xbox would disconnect from my wifi, and would give me an error message about toredo ip but I have no clue what the problem could be here. ( my xbox has disconnected randomly before but it just now gave me this)",hardware_device,yes,1,network_connectivity,auto,"@USER Hello! Since you're still experiencing disconnects and the Toredo IP error, please follow us and DM us your Gamertag along with a bit more info so we can look into this further: https://t.co/nPX1yNXCi5",The drafted reply provides a standard support path for a network connectivity error without requiring complex troubleshooting or human escalation.
+1757664,@XboxSupport Despite Microsoft's website confirming the Amazon app on the One S can stream 4k the Amazon website suggests otherwise: https://t.co/pFtceCRkC1,app_feature,no,5,app_feature,auto,"@USER To find 4K content, look for ""Included with Prime 4K Ultra HD TV."" All 4K titles should be located in this section and labeled UHD.",The drafted reply directly addresses the customer's question regarding 4K content availability without requiring troubleshooting or escalation.
+1091969,@XboxSupport I need to know before I accidentally sell a banned Xbox,enforcement_ban,no,4,enforcement_ban,escalate,@USER We would recommend checking out this link https://t.co/I14gZDuAm8 for more info.,"The inquiry involves account or console bans, which require human review."
+1777604,"@XboxSupport No puedo iniciar sesion en mi Xbox 360, ni en la app de Xbox, estoy estoy asustado, ayuda!",app_feature,no,3,account_access,escalate,@USER https://t.co/lUV7XYl61S . If you would like to continue in English can you DM us your Gamertag and a summary of your issue?,"The customer is panicking about potential account access issues, which could involve account theft or security concerns requiring human assistance."
+1025178,@XboxSupport Sorry but I brought a Xbox Live card (12 months) and not added my other 2 months for my last suscription :(,billing_subscription,yes,2,billing_subscription,escalate,@USER Hi there! Mind sending us a direct message https://t.co/nPX1yNXCi5 with your Gamertag so we can further assist?,"The customer is reporting an issue with adding subscription months from a gift card, which involves billing and subscription verification."
+941920,@XboxSupport It still says in the top left for me to sign in,account_access,no,3,account_access,escalate,@USER Thank you for that info. Do you see this same thing happen with a wireless connection?,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The customer has not resolved the sign-in issue and further basic troubleshooting is unlikely to help.""
+}
+```"
+2598174,"@XboxSupport if I bought Blade Runner Final Cut a while ago but now I want to purchase UHD, how do I upgrade?",billing_subscription,no,5,billing_subscription,auto,"@USER Hi there, in this case, the UHD is a separate version and you would need to purchase it to own it.","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is asking a standard licensing question that is fully resolved by the drafted reply.""
+}
+```"
+2442254,@XboxSupport why has my fifa 18 totally gone with new update? Having to re install the whole thing??,game_content,yes,3,game_content,auto,"@USER Sorry to hear that! Are you seeing any specific error messages when trying to launch the game, or does it only give you the option to reinstall? Let us know.","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""This is a standard technical query about a game update requiring a reinstall and needs initial troubleshooting.""
+}
+```"
+1700850,@USER @XboxSupport My Xbox isn't working after the update. I can hear a faint startup sound so I tried other poweroutlets but it wont turn back on,hardware_device,yes,2,hardware_device,escalate,@USER Could you unplug your console for five minutes and try plugging it directly into an outlet and see if it works?,The customer is experiencing a hardware power issue after an update and has already tried multiple troubleshooting steps.
+1100249,@XboxSupport why can't I sign in? https://t.co/jsoBGLR2MG,account_access,yes,3,account_access,auto,@USER Hey there! DM us with your Gamertag so we can take a look! https://t.co/nPX1yNXCi5,The customer is asking for general login help and no escalation triggers are present.
+2875107,"@USER and @XboxSupport I have zero issues streaming on any other app. NFL, Amazon, Netflix... zero issues. It’s not my internet.",network_connectivity,yes,4,app_feature,escalate,"@USER Thanks for confirming. Since your connection is working fine elsewhere, let's try a power cycle of your console. Hold the power button on the front for 10 seconds until it turns off, unplug it for 30 seconds, then plug it back in and turn it on.",The customer is frustrated and basic troubleshooting has not resolved their streaming issue.
+204149,@XboxSupport when i load up my crunchyroll app it go back to the Home please help.,app_feature,no,5,app_feature,auto,@USER Hi there! Let's check out our guide here for this app crashing issue that you're seeing https://t.co/ouleFx48g2,This is a standard app crashing issue that can be handled automatically with a troubleshooting link.
+159826,"@XboxSupport hi, is there a way I would be able to connect an Xbox One Elite Controller to my patio wirelessly? I can’t find my cable",hardware_device,yes,3,hardware_device,auto,"@USER We'd be happy to help, but we could use more info. Could you follow &amp; DM @Xboxsupport with some details about this setup?","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The query is a basic connectivity question about an Xbox controller and does not involve hardware damage, warranty claims, or failed troubleshooting.""
+}
+``"
+1757538,"@XboxSupport I got a permanent ban for phishing,how do you scam on Xbox I was in a party on Xbox and on computer and I got ban for scamming",enforcement_ban,no,4,enforcement_ban,escalate,"@USER Hey there, we're separate from the Enforcement Team & unable to speculate on your enforcement action. You can view more info about any active enforcement action here: https://t.co/aHF4ZgtbnQ",The customer is appealing a permanent account ban.
+2899281,Yo @XboxSupport I got banned for sending some a message saying “AHHHHHHHH I NEED DEATH AHHHHHHHH” can you help me get unbanned?,enforcement_ban,no,5,enforcement_ban,escalate,"@USER Hey there! To view enforcement actions and check if you are eligible to submit a Case Review to contact Enforcement directly, you can go here: https://t.co/JXq4oCmI9s","```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The customer message involves an account ban appeal.""
+}
+```"
+372353,I have all sorts of problems with internet connection on Xbox. Never on PlayStation. What the actual fuck?!,network_connectivity,yes,3,network_connectivity,auto,@USER We'd be happy to look into the connection with you! Tweet us any time for official Xbox support :),"The message expresses frustration with network connectivity but does not contain any escalation triggers such as bans, hardware damage, or unresolved troubleshooting."
+2987171,@XboxSupport i cannot download anything or stream anything. I’ve rebooted the console several times and I have rebooted my router. Internet works fine on everything but the Xbox. Any suggestions for a fix?,hardware_device,yes,4,hardware_device,auto,@USER a picture of your network stats: Settings&gt;Network&gt;Network Settings&gt;Detailed Network Statistics and NAT?,"The customer has only tried basic troubleshooting once, so further network diagnostics can be attempted before human escalation."
+2496588,"@XboxSupport I'm getting this message, I can't stop my Mixer broadcast, I'm the only user on my  Xbox One https://t.co/DMx4LmlZlZ",app_feature,yes,5,app_feature,auto,@USER Can you DM us your gamertag and a detailed summary of the issue you're experiencing?,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The drafted reply appropriately requests necessary account details to troubleshoot a software/feature glitch.""
+}
+```"
+495509,@XboxSupport I’m jus wondering what kind of ban I️t was g,enforcement_ban,no,5,enforcement_ban,escalate,"@USER Hey there, sorry about that. If you head over here: https://t.co/DKYj5dv910 has there been any action taken on the account by them?",The customer message involves an account ban or suspension.
+708847,@XboxSupport has Xbox live gone down? I just got threw out of my account and it won’t let me back in.,account_access,yes,4,account_access,auto,"@USER Hello, there are currently no service alerts for Xbox Live. Can you DM us your gamertag so we can look into this further?",The drafted reply appropriately handles a general connectivity question without indicating account theft or suspension.
+1104071,@XboxSupport The Microsoft account login server has detected too many repeated authentication attempts. Please wait a moment and try again.,account_access,no,5,account_access,auto,@USER Howdy! This is currently a known issue and the appropriate teams are aware. We thank you for your patience while they fix it.,The customer is experiencing a known login server issue covered by the drafted response.
+1755251,@XboxSupport @USER Any idea when playerunknowns battlegrounds will be available to preorder on the xbox one console store itself? Right now it's not on there only at online retailers like amazon and microsoft store.  I wanna preorder right from my console itself.,game_content,no,5,game_content,auto,@USER Hi there! You can view the current availability for PLAYERUNKNOWN'S BATTLEGROUNDS on the marketplace here: https://t.co/Qlgzk9sJUt,The customer is asking a general pre-order availability question that can be addressed with standard support information.
+1646430,"@XboxSupport Aimbot, target boxes through walls, full auto mod, god mode mod, full prestige mod, got a lot of stuff to share so you can ban this person",enforcement_ban,no,4,enforcement_ban,escalate,"@USER Hello, thanks for reaching out to us. We recommend reporting and blocking this player. We appreciate your help.","```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The message involves account bans and enforcement actions which require human review.""
+}
+```"
+326501,Thanks @USER @USER for making impossible streaming from XBox One. You are the best! @XboxSupport @USER,game_content,yes,3,app_feature,auto,@USER DM us your Gamertag and clarify what the issue is that you're having so we can investigate?,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is expressing frustration about streaming, and asking for their Gamertag and clarification is a standard initial support response.""
+}
+```"
+1518690,"@XboxSupport About mixer, I keep signing out of it.",game_content,yes,4,app_feature,auto,@USER Could you send us a DM with your gamertag and a detailed summary of the issue you're experiencing? https://t.co/nPX1yNXCi5,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The issue is a standard app sign-in glitch that can be handled with initial support instructions.""
+}
+```"
+2160714,@XboxSupport Why won’t the code that came with my Xbox One X for game pass work?,billing_subscription,no,4,billing_subscription,auto,"@USER Sorry to hear that. To be sure, have you by chance already had a trial for the Xbox Game Pass in the past?",This is a standard troubleshooting question regarding a prepaid code and has not yet undergone multiple failed resolution rounds.
+2817247,@XboxSupport there is Xbox gamer tag that I have been wanting and it appears that the account was made on 360 and has 0 gamer score is there anyway I can get the gamertag?,account_access,yes,4,account_access,auto,"@USER We understand wanting that gamertag! However, gamertags associated with existing accounts cannot be released or reassigned, even if the account appears inactive or has 0 gamersonre.","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The drafted reply directly answers the customer's question about claiming an inactive gamertag with no safety or escalation triggers.""
+}
+```"
+1586980,@USER @ATVIAssist @XboxSupport it says connecting to Xbox live then says this. https://t.co/diOpOo9US7,network_connectivity,no,4,network_connectivity,auto,@USER Please stay tuned to that page for updates and we appreciate your patience.,The drafted reply properly directs the user to an official status page for a known service interruption.
+1044138,Help me @USER support i can sign in to my account but cant connect to xbox live. @USER,account_access,yes,5,network_connectivity,auto,"@USER Hi! Let's have you follow us, DM us your Gamertag, and some more info about what you're seeing: https://t.co/nPX1yNXCi5","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""Standard network connectivity issue that can be handled through initial support triage.""
+}
+```"
+7910,@XboxSupport My brother and I have the game and my gamertag is Toxicradiation5,account_access,yes,4,other,auto,@USER Can you DM us so we can get more information from you?,The customer is providing basic information and the drafted reply is appropriate to move the conversation to a DM for further assistance.
+123830,"@XboxSupport I dont have a wired connection, dont have an ethernet rn. The console is about 15 feet from the router",hardware_device,yes,2,hardware_device,escalate,@USER Recommend reaching out to your internet service provider so they can look into your connection further for you.,The customer is experiencing ongoing connectivity issues and standard troubleshooting has failed to resolve them.
+1018509,@XboxSupport I put my console up to be repaired on that link the other day. Now what. Sorry i didnt get back to you earlier,hardware_device,yes,3,hardware_device,escalate,@USER Have you received any emails about the repair? What do you see when you look here https://t.co/DepNLmOkhE,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The issue involves a console repair, which requires human support.""
+}
+```"
+2852368,@USER @XboxSupport @USER  i been looking into XBOX One Store i can not find the game i want to pre order,game_content,no,5,billing_subscription,auto,@USER Hi there! Mind sending us a direct message https://t.co/nPX1yNXCi5 with your Gamertag & a summary of the issue?,The customer is simply having trouble finding a game to pre-order and no troubleshooting or sensitive billing dispute is involved.
+1377985,@XboxSupport No community or mixer https://t.co/e02jFGggCA,game_content,no,5,app_feature,auto,"@USER Thanks for that picture. If you hold down the LT + RT +Y on your controller, does this refresh your home page?","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The drafted reply provides a standard first-step troubleshooting action for UI display issues.""
+}
+```"
+2702304,@XboxSupport you guys are ass clowns suspending me when someone else was also talking shit. Give me money back for Xbox live. Xbox enforcement is a damn joke.,billing_subscription,yes,4,enforcement_ban,escalate,"@USER We don't have any influence over Enforcement policy from here at Support, I'm afraid. If you feel you were suspended in error, you can submit a case review.",The message involves an account suspension appeal.
+712328,@XboxSupport Not particularly helpful. I only have one controller and you want me to send it away for 2 weeks for repair/replace!,hardware_device,yes,3,hardware_device,escalate,@USER always reach out to the live chat team: https://t.co/lUV7XYl61S for further assistance!,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The issue involves hardware repair and the customer is dissatisfied with the standard replacement process.""
+}
+```"
+513854,"@XboxSupport hello! I had a problem with my xbox account, my friend deleted my main xbox live account and i have no idea what is my email anymore, i only remember my gamertag, can you help me?",account_access,no,4,account_access,escalate,@USER Heya! You can try the steps here: https://t.co/nkrnNr2aOM to get access to the email and sign into your account.,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The customer is dealing with account theft and loss of login credentials, which requires human verification and intervention.""
+}
+```"
+2866226,"@XboxSupport @USER 
+
+Hi there. I have a question about Xbox One S/X Power cables.
+
+Will any UK power cable do or do I have to use a Microsoft-branded one for best results?
+
+Have a console on the way but it’ll come with an EU plug/cable. Would rather not use a converter.",hardware_device,yes,4,hardware_device,auto,@USER Hi there! We always recommend using the power cable that comes packaged in with your console for the best results.,The customer is asking a general compatibility question about power cables that can be handled automatically.
+1520786,@XboxSupport Hello every time I try to log in on the xbox app on ios this comes upp!? Thanks for help. https://t.co/Xc4sTrJTei,account_access,yes,4,account_access,auto,"@USER We'd be happy to help, but we could use more info. Could you follow &amp; DM @Xboxsupport with your Gamertag &amp; some details?",The drafted reply provides a standard initial request for more information without requiring escalation.
+416877,@XboxSupport Will the Xbox one X come with an HDMI 2.0 cable?,hardware_device,no,5,hardware_device,auto,@USER Hey there. We wouldn't have those specifics but this page has all of the present details: https://t.co/w3u291GUxT,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is asking a general pre-sales hardware question that can be answered with a link to official details.""
+}
+```"
+2525052,@XboxSupport it’s not letting me change my gamer picture from the Xbox app on my iPhone. Why isn’t this working?,app_feature,yes,4,account_access,auto,@USER Hi there! What happens when you try to set that up? Are you seeing any error messages?,This is a standard technical support inquiry that can be handled with basic troubleshooting questions.
+2300471,"@USER @USER My updates dont display properly. I had 30 to do when I transferred the content over to xbox one https://t.co/MlXsE9aAM7 that the data has transferred I have no updates to install. Yet the games that require updating before are not displaying under ""updates"" please fix.",hardware_device,yes,4,game_content,auto,@USER Hi there! Can you please follow then DM us your Gamertag so we can collect some more information regarding this?,The drafted reply properly collects account information for further troubleshooting without meeting escalation criteria.
+2505898,@XboxSupport Hello I got issues with my Xbox Live Gold subscription I'd like to have some help,account_access,yes,4,billing_subscription,auto,@USER Hello! Would you mind letting us know your gamertag so we can better assist you on our end?,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The issue is a general subscription inquiry and this is the first point of contact.""
+}
+```"
+1992387,@XboxSupport I unplugged everything again including modem this time and the sign in error turned to 8015190E.,account_access,yes,4,account_access,escalate,@USER like we sent before for that alert? Check that now and let us know what you find.,"The customer has performed multiple troubleshooting steps without resolution, leading to a specific error code."
+373170,Been DDoS'd on stream for the 12th time. Too bad @USER and @XboxSupport wont do shit to stop them :),game_content,yes,1,network_connectivity,escalate,@USER We're sorry to hear about that. Let's have you be sure to report those users &amp; follow the steps here https://t.co/0Q9A5E6gMb,Customer is reporting repeated targeted DDoS attacks with ongoing frustration.
+2232875,@USER how do I op out of the Xbox preview program? I can't stand the constant updates I get. I have to update my console every day and it just isn't working for me. Please help,hardware_device,no,5,account_access,auto,@USER We can help with that. You can unenroll your console through the Xbox Insider Hub app. More info here: https://t.co/ivKG1xJts9,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""This is a standard informational request regarding the Xbox preview program that can be resolved automatically.""
+}
+```"
+2798233,"@USER @USER @XboxSupport @ATVIAssist keep getting this repeatedly, can’t play multiplayer you guys really need to patch the game for Xbox, not just PlayStation. Make the game is complete before you guys incorporate cod points, but I’m sure that will Work flawlessly. https://t.co/QsnObHt7Ds",game_content,yes,5,game_content,auto,@USER Hi there! This issue is being looked into: https://t.co/dG2dbIAHPz We appreciate your patience.,The drafted reply provides a standard status update link for a known multiplayer issue.
+2761473,"@XboxSupport I just set up my Xbox One X, but once I signed my account into it, the console pretends I don't have any Xbox Live! I clearly do on my other console, and I'm not down for purchasing the same thing twice.   Any thoughts?",hardware_device,yes,5,billing_subscription,auto,@USER Hi there! Do you mind DM'ing us your Gamertag so we can gather a bit of info?,The customer is experiencing a minor account sync issue that requires basic information gathering via DM.
+669079,@XboxSupport I have two games that do not show up on My Games Dashboard on https://t.co/boDm4C8wDx? Any suggestions as to why? Forza 7 and COD WWII are the games.,other,yes,5,game_content,auto,@USER Hi there! Can you DM us your Gamertag and a photo of the orders from this link https://t.co/ynh71OJwNH,"The customer is asking about missing games, and the drafted reply appropriately asks for account details to investigate without involving complex troubleshooting, bans, or billing disputes."
+1533368,@XboxSupport lol. The download wasn't too bad I was just making a joke with Paul. Thanks tho!,game_content,no,4,other,auto,@USER Alrighty! Do let us know if you run into any issues we can help with.,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is just making a joke and confirmed their issue is resolved.""
+}
+```"
+2410790,"@XboxSupport what’s this about, just got an enforcement but it says nothing about party chat https://t.co/QsJ2FFTzxX",enforcement_ban,yes,4,enforcement_ban,escalate,@USER We understand your concern. Could you please send us a DM with your Gamertag so we can take a closer look at this enforcement?,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The message involves an account ban or suspension enforcement.""
+}
+```"
+12374,"@XboxSupport Please pass on my disappointment. We used ""Xbox Select"" daily. The Cortana version lacks app functionality, and Cortana commands are slower.",billing_subscription,no,4,app_feature,auto,"@USER If that is something you would like to see change, you can let your voice be heard here: https://t.co/xzPtJXQjgy","The customer is expressing feedback about an app feature, which can be appropriately handled with the provided auto-reply."
+1175731,"@XboxSupport  after playing the battlefront 2 beta, I'd rather play the game on PC.  Can I cancel my pre order and get a refund?",billing_subscription,yes,4,billing_subscription,auto,"@USER Hi! For this, we recommend reaching out to the live chat team to explore some possible options https://t.co/lUV7XYl61S",Standard pre-order cancellation and refund request that does not involve billing disputes or prior failed troubleshooting.
+1518683,@XboxSupport any word on the Ark update going through cert? Nitrado cannot release the rentable servers for Ark and theres been no update.,game_content,no,4,game_content,auto,"@USER Hi there. This process can take some time, and it's not something we'd have direct insight into or control over here on Twitter. Hang tight, hopefully it goes through soon!",The customer is asking for general update status which can be handled automatically.
+2124086,@XboxSupport Yeah I get a error don’t remember the code. I rebooted my internet several times hard reset my Xbox too. It’s still connected to the internet because games are downloading yet it won’t let me sign in or recovery my secondary account. I’ve done every trouble shooting thing I could,account_access,no,4,account_access,escalate,@USER Hi there! Could you follow us back &amp; DM your gamertag and details about the error so we can look into this further for you?,The customer has already tried multiple troubleshooting steps without resolution.
+219220,@XboxSupport Yup it did work thanks a lot ! I did look in the market before but it was saying that the game was not available. But thanks a lot,game_content,no,4,other,auto,@USER No problem! Let us know if we can assist with anything else.,The customer's issue was successfully resolved and they expressed gratitude.
+1029293,@XboxSupport Updated my controller but mic still doesn’t let me talk. I can only hear people but not speak back. 😔,hardware_device,yes,5,hardware_device,auto,"@USER Hi! Let's have you follow us, DM us your Gamertag, and some more info about what you're seeing: https://t.co/nPX1yNXCi5","The customer has not yet gone through multiple failed troubleshooting steps, so it can be handled via the standard support flow."
+941552,"@USER I know what the codes mean, they all blame my ntwrk, my point is it's bull, cuz Netflix, store, other online games, all work except destiny",game_content,yes,4,game_content,escalate,@USER We're sorry to hear about the frustration! Mind sending us a direct message https://t.co/nPX1yNXCi5 with your Gamertag &amp; the error code that you are encountering?,The customer is frustrated after basic troubleshooting didn't resolve the issue and requires human assistance.
+1758419,@XboxSupport Never mind I never plugged it in 😂😂😂😂,hardware_device,no,5,other,auto,"@USER Glad to hear you resolved this! If you have any more Xbox support questions, we'll be here to help :)","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The issue was resolved by the customer themselves and requires no further troubleshooting.""
+}
+```"
+219216,"@XboxSupport @USER please, at some point someone explain how I can play #cuphead on Windows 10 with a USB controller?",hardware_device,no,4,hardware_device,auto,@USER PC and then when you launch the game it should auto detect. Are you having issues with those steps?,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is asking a standard setup question that can be handled with basic troubleshooting steps.""
+}
+```"
+1178348,@XboxSupport I'm unable to upload to Xbox live I get this error code.  Help ???gamertag - TOTALANXIETY https://t.co/M4UmHBxZpd,account_access,no,4,network_connectivity,auto,"@USER Hi there! Sorry to hear you're running into this. To clarify, what specific games does this happen with?","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""This is a standard first-response network troubleshooting inquiry that can be handled automatically.""
+}
+```"
+632685,"@XboxSupport In regards to transferring Xbox 360 game saves to cloud storage for use on Xbox One, is an Xbox Live Gold subscription mandatory or is the standard Xbox Live account itself without Gold sufficient? Answer whenever possible.",billing_subscription,no,5,billing_subscription,auto,"@USER Hi there! For this, you'll need an active Xbox Live Gold subscription in order to access Cloud Storage on your Xbox 360 console. More info over in the link here https://t.co/vQxxXM",The customer is asking a straightforward informational question about subscription requirements that is fully answered by the drafted reply.
+1776115,@XboxSupport did the myhome Xbox update to where u and your buddy can’t share a Gold membership ?,billing_subscription,no,4,billing_subscription,auto,"@USER Hi, we cannot speculate on updates, but are you currently experiencing an issue sharing your subscription? Let us know.","The customer is asking a general question about a feature update rather than reporting a billing dispute, account ban, or failed troubleshooting."
+1585704,@XboxSupport trying to play WW2 https://t.co/r28UUUxHwd,game_content,no,4,game_content,auto,@USER . Please stay tuned to that page for updates and we appreciate your patience.,The customer is pointing out a game server issue and the drafted reply appropriately directs them to status updates.
+1641113,"@XboxSupport Trying to resolve an error with COD: WWII, but @ATVIAssist is not responding, can you assist me?",game_content,yes,4,game_content,auto,"@USER Hello, thanks for reaching out to us. What seems to be the issue?",The customer is asking for assistance with a game error and the drafted reply appropriately asks for more details.
+4549,"@USER could you please fix the game gears of war 2 Japan, the multiplier on the public matches does not work, and no longer complete",game_content,yes,5,game_content,auto,"@USER Hey there, are you still seeing this in the game? If you need help official Xbox support is just an @ away!","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is reporting a bug in a specific game and the drafted reply appropriately follows up for more information without requiring human intervention"
+1716406,@XboxSupport any update on when I’ll see achievements in English instead of French?,game_content,no,5,game_content,auto,"@USER We don't have this info, so we could not speculate. If this is a language option you'd like to see in the future, make sure to cast your vote on https://t.co/EDoaucSh9O to express interest","The customer is asking about a known localization quirk, and the drafted reply provides the appropriate feedback channel without requiring human agent intervention."
+2215130,"@XboxSupport I'm having a problem where I just had a communication ban lifted. However, I cannot talk at all or send messages to anybody. Please help",enforcement_ban,yes,5,enforcement_ban,escalate,@USER Hello! Would you mind following us and sending a DM with your gamertag so we can better assist you?,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The issue involves a post-ban enforcement restriction where the user still cannot communicate.""
+}
+```"
+1415896,"@XboxSupport new Xbox. During setup after entering my wifi password, it connects &amp;I then goes back to the original green Xbox screen.  Grr",hardware_device,no,4,hardware_device,escalate,"@USER Hello, thanks for reaching out to us! Can you try completing setup with a wired connection?","```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The issue involves a brand new hardware setup failure which may require hardware troubleshooting or a warranty replacement.""
+}
+```"
+1623206,@XboxSupport Just power cycled everything and we all loaded in quick. Hopefully this fix sticks! Thanks!,other,no,5,other,auto,@USER Glad to hear it! If any more Xbox support questions pop up we'll be here to assist. Have a great rest of your day,The customer's issue was resolved successfully with a basic troubleshooting step.
+1307468,@XboxSupport @USER Why isn't @USER S3E3 appearing on Xbox Movies &amp; TV app? Aired yesterday.,game_content,no,5,app_feature,auto,"@USER Hello, thanks for reaching out to us. Can you DM us your gamertag and a description of the issue you're seeing?","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""This is a standard content availability inquiry that can be handled with initial information gathering.""
+}
+```"
+767462,@XboxSupport @USER why is there no way to actually engaged a conversation with the enforcement team this too me just doesn't make sense.,enforcement_ban,no,5,enforcement_ban,escalate,"@USER We completely understand your concern with communicating with the enforcement team. We do not handle any enforcement actions here, but if eligible, you can submit for a case review here: https://t.co/U1yn6tkAAG","The customer is asking about an enforcement ban, which requires human escalation."
+2577470,@XboxSupport How do I suspend my (son's) xbox one live account?,enforcement_ban,no,5,account_access,auto,@USER We're not quite sure we understand - can you DM us your gamertag and more details on that? https://t.co/nPX1yNXCi5,"The customer is asking a standard account management question about parental controls, which does not require human escalation."
+2433353,@XboxSupport my xbox one x scorpio edition keeps randomly disconnecting from wifi and I need to disconnect/reconnect in settings to get back on. I work in IT &amp; did all troubleshooting &amp; narrowed down issue to console. Is this a problem others are having?,hardware_device,yes,5,hardware_device,escalate,"@USER Sorry to hear this is happening, especially since you've already tackled the troubleshooting! Can you send us a picture of your network stats: Settings>Network>Network Settings>Detailed Network Statistics and NAT on the console?",The issue involves hardware/console troubleshooting where the customer has already completed standard troubleshooting steps.
+1045802,@USER explain( i was com banned) i know the reason.. 2 days later i get online banned for harassing and or threatening.. how when com banned..?,enforcement_ban,no,5,enforcement_ban,escalate,"@USER Hi there. Enforcement can be retroactive, as suspensions require an investigation for each report. If eligible, you can submit a case review here: https://t.co/U1yn6tCbse",The customer is appealing an account ban/suspension.
+161645,"@XboxSupport ill try then hehehe: i have some issues with my game ""forza horizon 3"" when i am playing the controller stop working properly and i can use the pad as mouse also all the time the menu show me the keyboard controls",hardware_device,no,4,game_content,auto,"@USER Hi there! Just to clarify, are you playing this on the Xbox or PC?",This is a technical troubleshooting query that requires a clarifying question before further action.
 369443,"@XboxSupport Halo Wars 2 won't install/update for some reason. Always gets stuck at 22%, have tried uninstalling to reinstall, hard shutdown of the console, installing something else (which works.) Part of Insider Alpha program.",other,no,5,game_content,escalate,"@USER Thanks for trying those steps. Since you're in the Insider Alpha program, please report this via the Report a Problem app on your console so our team can investigate!",The customer is in the Insider Alpha program and experiencing persistent installation failures after trying multiple troubleshooting steps.
-2987171,@XboxSupport i cannot download anything or stream anything. I’ve rebooted the console several times and I have rebooted my router. Internet works fine on everything but the Xbox. Any suggestions for a fix?,hardware_device,yes,4,network_connectivity,auto,@USER a picture of your network stats: Settings&gt;Network&gt;Network Settings&gt;Detailed Network Statistics and NAT?,"The customer has only tried basic reboots once, so further troubleshooting can be attempted automatically."
-2856902,@XboxSupport It was slugs lol called me a camping noobs for headglitching a bomb that I just planted 😂 then reported my response 2 week com ban and I'm sure they never respond to your appeal,enforcement_ban,no,3,enforcement_ban,escalate,"@USER We understand that's frustrating. While we don't have insight on enforcement actions here, you can submit a case review for more info: https://t.co/U1yn6tkAAG",The customer message involves an account ban and suspension appeal.
+1659483,@XboxSupport  why am I paying for Xbox live I can't even use,billing_subscription,yes,1,billing_subscription,auto,@USER Hi there. Are you having issues signing in or with playing a specific game online?,"```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""This is a general subscription frustration requiring initial troubleshooting questions rather than a complex billing dispute.""
+}
+```"
+241057,@XboxSupport My gamerpicture will not change. I have been trying to change it for 2 days and it has yet to change. It is 1080px by 1080px. I have tried on the app and on the Xbox itself.,game_content,yes,4,account_access,escalate,@USER Hey there. Can you dm your GT and let us know how many times you tried or have you waited 2 days since you first tried? Happy to take a closer look.,The customer has already tried multiple troubleshooting steps across different devices without resolution.
+1613684,@XboxSupport xbox live has been down for hours :(,network_connectivity,yes,4,network_connectivity,auto,"@USER Hi! Let's have you follow us, DM us your Gamertag, and some more info about what you're seeing: https://t.co/nPX1yNXCi5","```json
+{
+  ""decision"": ""auto"",
+  ""reason"": ""The customer is reporting a general outage without mentioning account bans, billing disputes, or prior failed troubleshooting.""
+}
+```"
+2264029,@USER @USER @XboxSupport Bug report: Xbox One X. Sometimes switching to and from HDR content will cause massive wash out of colors or INTENSE colors. Any input?,hardware_device,yes,3,game_content,auto,@USER Hi there! Let's check out our guide here for this HDR issue that you're seeing https://t.co/5YET6VY9ob,This is a standard technical bug report that can be addressed with an official troubleshooting guide.
+2897780,hey @XboxSupport me and @USER's shared xbox account got hacked and the details were changed :( can you PLEASE help us retrieve our account!?,enforcement_ban,yes,2,enforcement_ban,escalate,@USER Hi there! Let's be sure to work through the guide here: https://t.co/Po93RfpZ7v and you will also want to check in with the phone team here: https://t.co/OVKS1fm8SB after working through the guide.,"```json
+{
+  ""decision"": ""escalate"",
+  ""reason"": ""The message involves account theft, which always requires human escalation.""
+}
+```"
+1712687,@USER I checked and it’s still incorrect. Some of my games are whipped out of achievements and it’s saying 0% unlocked,game_content,yes,5,game_content,auto,"@USER We'd be happy to help, but could use more info. Could you follow &amp; DM @Xboxsupport with your Gamertag &amp; some details?",The drafted reply provides appropriate next steps for a game content and achievement display issue without requiring escalation.
